@@ -6,8 +6,8 @@ cod_distrito,distrito,edad_media,numero_habitantes,densidad_poblacion,proporcion
 5.0,Chamartín,45.39,145865.0,159.0,23.28,5.49,58.97
 6.0,Tetuán,44.13,157937.0,294.0,19.33,14.96,45.03
 7.0,Chamberí,46.34,139448.0,298.0,24.18,6.19,53.97
-8.0,Fuencarral-El Pardo,42.87,246021.0,10.0,20.8,5.58,63.31
-9.0,Moncloa-Aravaca,44.57,119423.0,26.0,21.9,6.5,57.28
+8.0,Fuencarral - El Pardo,42.87,246021.0,10.0,20.8,5.58,63.31
+9.0,Moncloa - Aravaca,44.57,119423.0,26.0,21.9,6.5,57.28
 10.0,Latina,46.49,238154.0,94.0,24.79,11.5,59.3
 11.0,Carabanchel,43.44,253040.0,180.0,19.24,15.03,51.53
 12.0,Usera,42.26,139501.0,179.0,17.08,18.91,48.61
@@ -18,5 +18,5 @@ cod_distrito,distrito,edad_media,numero_habitantes,densidad_poblacion,proporcion
 17.0,Villaverde,42.08,148883.0,74.0,17.4,15.41,51.5
 18.0,Villa de Vallecas,38.83,110436.0,21.0,12.48,7.66,46.59
 19.0,Vicálvaro,40.75,72126.0,20.0,14.45,6.77,49.56
-20.0,San Blas-Canillejas,43.14,158166.0,71.0,17.57,8.06,49.48
+20.0,San Blas - Canillejas,43.14,158166.0,71.0,17.57,8.06,49.48
 21.0,Barajas,41.73,48972.0,12.0,17.77,5.22,56.48
