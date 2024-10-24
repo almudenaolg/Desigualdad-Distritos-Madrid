@@ -29,6 +29,7 @@ Este proyecto tiene como objetivo analizar la **desigualdad** entre los distrito
 
 - **README.md**: Este archivo de documentación.
 
+![Estructura del proyecto](images/flujo_de_trabajo.png)
 ---
 
 ## 🔍 Introducción
@@ -102,6 +103,8 @@ El año 2020, marcado por la pandemia de COVID-19, fue un año atípico, pero se
 4. **Salud**:
    - **Indicadores**: Esperanza de vida, tasa de sedentarismo, tasa de enfermedades crónicas y mentales.
 
+![Base de datos](images/base_datos_desigualdad_madrid.jpg)
+
 ## 📊 Herramientas y Tecnologías
 
 - **Python** 🐍
@@ -114,6 +117,12 @@ El año 2020, marcado por la pandemia de COVID-19, fue un año atípico, pero se
 - **Economía**: Los distritos con mayor renta media presentan menores tasas de desempleo y mejores indicadores de bienestar.
 - **Salud**: Se observó una correlación entre los distritos con mayor inversión en salud y mejores indicadores de esperanza de vida y bienestar.
 - **Educación**: Los distritos con mayor inversión educativa tienen una menor proporción de población sin estudios y una mayor proporción de personas con estudios superiores.
+
+![Dashboard general](images/dashboard_vision_general.png)
+![Dashboard economia](images/dashboard_economia.png)
+![Dashboard social](images/dashboard_social.png)
+![Dashboard salud](images/dashboard_salud.png)
+![Dashboard educacion](images/dashboard_educacion.png)
 
 ---
 
