@@ -32,6 +32,14 @@ Este proyecto tiene como objetivo analizar la **desigualdad** entre los distrito
 ![Estructura del proyecto](images/flujo_de_trabajo.png)
 ---
 
+## Presentación del Proyecto 📷
+
+Puedes visualizar la presentación del proyecto en este enlace:
+
+[Ver Presentación en Canva](https://www.canva.com/design/DAGUfKuwtdA/2-xUsQBHhbFFSpeKXu8F1w/edit?utm_content=DAGUfKuwtdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+---
+
 ## 🔍 Introducción
 
 Este análisis se centra en evaluar la desigualdad entre los distritos de la ciudad de Madrid, utilizando indicadores agrupados en cuatro ámbitos clave:
