@@ -32,11 +32,11 @@ Este proyecto tiene como objetivo analizar la **desigualdad** entre los distrito
 ![Estructura del proyecto](images/flujo_de_trabajo.png)
 ---
 
-## Presentación del Proyecto 📷
+## Presentación del proyecto 📷
 
 Puedes visualizar la presentación del proyecto en este enlace:
 
-[Ver Presentación en Canva](https://www.canva.com/design/DAGUfKuwtdA/2-xUsQBHhbFFSpeKXu8F1w/edit?utm_content=DAGUfKuwtdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[Ver presentación en Canva](https://www.canva.com/design/DAGUfKuwtdA/2-xUsQBHhbFFSpeKXu8F1w/edit?utm_content=DAGUfKuwtdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ---
 
@@ -97,7 +97,7 @@ El resultado final es un índice por cada ámbito y un **índice general** para 
 
 El año 2020, marcado por la pandemia de COVID-19, fue un año atípico, pero se ha incluido deliberadamente en el análisis para captar el **impacto diferencial** que la crisis tuvo en los distritos más vulnerables. Según estudios del CSIC, la desigualdad económica se incrementó durante los primeros meses de la pandemia, afectando especialmente a los hogares de **ingresos más bajos**.
 
-## 📊 Ámbitos de Análisis
+## 📊 Ámbitos de análisis
 
 1. **Bienestar Social e Igualdad**:
    - **Indicadores**: Calidad de vida, percepción de seguridad, tasa de intervención de los servicios sociales, tasa de riesgo de pobreza infantil.
@@ -113,14 +113,14 @@ El año 2020, marcado por la pandemia de COVID-19, fue un año atípico, pero se
 
 ![Base de datos](images/base_datos_desigualdad_madrid.jpg)
 
-## 📊 Herramientas y Tecnologías
+## 📊 Herramientas y tecnologías
 
 - **Python** 🐍
   - pandas, numpy, matplotlib, seaborn, sqlalchemy, scipy, pymysql, dotenv.
 - **SQL** 🗄️
 - **Power BI** 📊
 
-## 📈 Resultados Clave
+## 📈 Resultados clave
 
 - **Economía**: Los distritos con mayor renta media presentan menores tasas de desempleo y mejores indicadores de bienestar.
 - **Salud**: Se observó una correlación entre los distritos con mayor inversión en salud y mejores indicadores de esperanza de vida y bienestar.
@@ -134,9 +134,9 @@ El año 2020, marcado por la pandemia de COVID-19, fue un año atípico, pero se
 
 ---
 
-## 🚀 Ejecución del Proyecto
+## 🚀 Ejecución del proyecto
 
-1. **Instalación del Entorno**:
+1. **Instalación del entorno**:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
